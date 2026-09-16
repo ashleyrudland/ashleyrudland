@@ -4,9 +4,9 @@
 
 Head of Applied AI at **[Loancrate](https://www.loancrate.com)**. Founder & CTO of **[Dealsourcr](https://dealsourcr.com)**. Building and shipping software since **2003**.
 
-**Dealsourcr: £1.4M cumulative revenue · 1,157 paying subscribers**
+**Dealsourcr: $500K ARR · ≈$1.89M cumulative revenue · 1,157 paying subscribers**
 
-<sub>Figures recorded in August 2026; revenue in GBP.</sub>
+<sub>Revenue shown in USD. ARR is the published milestone linked below. Cumulative revenue and subscribers recorded in August 2026; £1.4M converted at £1 = $1.3485 on <a href="https://www.investing.com/currencies/gbp-usd-historical-data">16 September 2026</a>.</sub>
 
 [Website](https://ashleyrudland.com) · [LinkedIn](https://www.linkedin.com/in/ashleyrudland) · [Email](mailto:ashleyrudland87@gmail.com) · [Open source](#open-source)
 
