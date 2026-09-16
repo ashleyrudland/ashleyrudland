@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="144" viewBox="0 0 960 144" role="img" aria-labelledby="title desc">
+  <title id="title">Ashley Rudland</title>
+  <desc id="desc">AI agents · SaaS · Open source</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="0.5"><stop stop-color="#111827"/><stop offset="1" stop-color="#252044"/></linearGradient>
+  </defs>
+  <rect width="960" height="144" rx="12" fill="url(#bg)"/>
+  <rect x="32" y="35" width="4" height="74" rx="2" fill="#a5a0ff"/>
+  <text x="56" y="70" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Ashley Rudland</text>
+  <text x="57" y="102" fill="#c7c9df" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1">AI agents · SaaS · Open source</text>
+</svg>

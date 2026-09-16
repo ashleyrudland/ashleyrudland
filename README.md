@@ -1,59 +1,62 @@
-# Ashley Rudland
+![Ashley Rudland — AI agents, SaaS and open source](assets/profile-header.svg)
 
-### I build AI systems that do real work.
+## I build production AI agents and profitable software businesses.
 
-Head of Applied AI at **[Loancrate](https://www.loancrate.com)**. Founder of **[Dealsourcr](https://dealsourcr.com)**. Creator of **[JustBin](https://justbin.app)**.
+Head of Applied AI at **[Loancrate](https://www.loancrate.com)**. Founder & CTO of **[Dealsourcr](https://dealsourcr.com)**. Building and shipping software since **2003**.
 
-Building and shipping software since 2003, from subscription businesses to AI agents running in production.
+**Dealsourcr: £1.4M cumulative revenue · 1,157 paying subscribers**
 
-[Website](https://ashleyrudland.com) · [LinkedIn](https://www.linkedin.com/in/ashleyrudland) · [Get in touch](mailto:ashleyrudland87@gmail.com)
+<sub>Figures recorded in August 2026; revenue in GBP.</sub>
+
+[Website](https://ashleyrudland.com) · [LinkedIn](https://www.linkedin.com/in/ashleyrudland) · [Email](mailto:ashleyrudland87@gmail.com) · [Open source](#open-source)
 
 ---
 
-### Selected work
+### Loancrate · AI agents in production
 
-| Product | My work |
-| :--- | :--- |
-| **[Loancrate](https://www.loancrate.com)** | Lead applied AI at a San Francisco mortgage technology company. Took Loancrate Agent from design into production, working through documents and multi-step loan workflows. |
-| **[Dealsourcr](https://dealsourcr.com)** | Built and operate the software behind a UK property investment platform, bringing together property search, market research and deal analysis. |
-| **[JustBin](https://justbin.app)** | Built a free mobile app that makes household bin collection schedules and reminders easier to use. Available on iOS and Android. |
-| **Onix** | Co-founded an AI consultancy building agents that use tools and work through multi-step business tasks. |
+I lead applied AI at Loancrate, a San Francisco mortgage technology company. I took Loancrate Agent from design into production, building software that works through documents and multi-step loan workflows.
 
-**Dealsourcr:** £1.4M cumulative revenue · 1,157 paying subscribers  
-*Figures recorded in August 2026; revenue in GBP.*
+[Explore Loancrate →](https://www.loancrate.com)
 
-### A look at the products
+### Dealsourcr · From product to subscription business
 
-**Dealsourcr**
+I built and operate the software behind Dealsourcr, a UK property investment platform bringing together property search, market research and deal analysis. As Founder & CTO, my work spans building the product and running it as a subscription business.
 
-<a href="https://dealsourcr.com"><img src="assets/dealsourcr-compact.png" width="640" alt="Dealsourcr homepage, compact presentation" /></a>
+[Explore Dealsourcr →](https://dealsourcr.com) · [Read my growth story →](https://www.indiehackers.com/post/hit-500k-arr-oGw1gSV9SKxrCKPBDlT1)
 
-**JustBin · Free on iOS and Android**
+<a href="https://dealsourcr.com"><img src="assets/dealsourcr-compact.png" width="560" alt="Dealsourcr homepage, compact presentation" /></a>
 
-<a href="https://justbin.app"><img src="assets/justbin-1.png" width="230" alt="JustBin free app: collection schedules" /></a>
-<a href="https://justbin.app"><img src="assets/justbin-2.png" width="230" alt="JustBin free app: collection reminders" /></a>
+### JustBin · A free app for an everyday problem
 
-### Tools I share
+I created JustBin to make household bin collection schedules and reminders easier to use. **Free on iOS and Android.**
 
-**[Next.js on a VPS →](https://github.com/ashleyrudland/nextjs_vps)**  
-A practical starting point for hosting Next.js on your own server. **317 stars · 18 forks.**
+[Explore JustBin →](https://justbin.app)
 
-**[PHP, jQuery & SQLite starter →](https://github.com/ashleyrudland/php-jquery-sqlite-starter-pack)**  
-A small, straightforward stack for getting products off the ground. **43 stars.**
+<a href="https://justbin.app"><img src="assets/justbin-1.png" width="220" alt="JustBin free app: collection schedules" /></a>
+<a href="https://justbin.app"><img src="assets/justbin-2.png" width="220" alt="JustBin free app: collection reminders" /></a>
 
-**[AI chatbot on a VPS →](https://github.com/ashleyrudland/nextjs-ai-chatbot-on-vps)**  
-My adaptation of Vercel’s chatbot for VPS hosting.
+### Onix · Practical agents for businesses
 
-*GitHub counts as of 16 September 2026.*
+I co-founded Onix, an AI consultancy building agents that use tools and work through multi-step business tasks.
+
+---
+
+### Open source
+
+Practical tools and examples for developers building and hosting their own products.
+
+| Project | What it helps you do | Community |
+| :--- | :--- | :--- |
+| **[Next.js on a VPS](https://github.com/ashleyrudland/nextjs_vps)** | Host a Next.js application on your own server. | 317 stars · 18 forks |
+| **[PHP, jQuery & SQLite starter](https://github.com/ashleyrudland/php-jquery-sqlite-starter-pack)** | Get a product off the ground with a small, straightforward stack. | 43 stars |
+| **[AI chatbot on a VPS](https://github.com/ashleyrudland/nextjs-ai-chatbot-on-vps)** | Run my adaptation of Vercel’s chatbot on a VPS. | Adapted from Vercel |
+
+<sub>GitHub counts as of 16 September 2026.</sub>
 
 ### Writing & public work
 
-- **[The $500k ARR milestone](https://www.indiehackers.com/post/hit-500k-arr-oGw1gSV9SKxrCKPBDlT1)** — my account of growing Dealsourcr, published on Indie Hackers.
-- **[Building Dealsourcr](https://www.samuelleeds.com/deal-sourcr-the-new-app-set-to-revolutionise-property-investing/)** — a June 2020 company case study from Property Investors.
+- **[Growing Dealsourcr to $500k ARR](https://www.indiehackers.com/post/hit-500k-arr-oGw1gSV9SKxrCKPBDlT1)** — my account of growing the business, published on Indie Hackers.
+- **[The story behind Dealsourcr](https://www.samuelleeds.com/deal-sourcr-the-new-app-set-to-revolutionise-property-investing/)** — a June 2020 company case study from Property Investors.
 - **[Matching property data with deep learning](https://stackoverflow.com/questions/58558378/matching-property-on-heterogenous-data-using-deep-learning)** — a technical question I shared on Stack Overflow.
 
-### Experience
-
-Currently **Head of Applied AI at Loancrate**, **Founder & CTO of Dealsourcr**, and **Co-founder & CTO of Onix**. Previously contracted at **Google** and **Babylon Health**, and co-founded **Circular Wave**, an NHS staffing platform.
-
-Based in the United Kingdom. Interested in useful AI, ambitious products and the engineering that makes them work.
+Previously contracted at **Google** and **Babylon Health**, and co-founded **Circular Wave**, an NHS staffing platform. Based in the United Kingdom.
