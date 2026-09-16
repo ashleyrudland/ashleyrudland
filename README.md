@@ -6,8 +6,6 @@ Head of Applied AI at **[Loancrate](https://www.loancrate.com)**. Founder & CTO 
 
 **Dealsourcr: $500K ARR · ≈$1.89M cumulative revenue · 1,157 paying subscribers**
 
-<sub>Revenue shown in USD. ARR is the published milestone linked below. Cumulative revenue and subscribers recorded in August 2026; £1.4M converted at £1 = $1.3485 on <a href="https://www.investing.com/currencies/gbp-usd-historical-data">16 September 2026</a>.</sub>
-
 [Website](https://ashleyrudland.com) · [LinkedIn](https://www.linkedin.com/in/ashleyrudland) · [Email](mailto:ashleyrudland87@gmail.com) · [Open source](#open-source)
 
 ---
