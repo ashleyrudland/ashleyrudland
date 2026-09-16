@@ -26,7 +26,7 @@ Building and shipping software since 2003, from subscription businesses to AI ag
 
 **Dealsourcr**
 
-[![Dealsourcr homepage captured September 2026](assets/dealsourcr-current.png)](https://dealsourcr.com)
+[![Dealsourcr homepage captured September 2026](assets/dealsourcr-current.jpg)](https://dealsourcr.com)
 
 **JustBin · Free on iOS and Android**
 
