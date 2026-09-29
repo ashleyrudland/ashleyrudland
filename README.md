@@ -16,11 +16,11 @@ I lead applied AI at Loancrate, a San Francisco mortgage technology company. I t
 
 [Explore Loancrate →](https://www.loancrate.com)
 
-### AGIMac · Training language models from scratch
+### [AGIMac](https://github.com/ashleyrudland/agimac) · Train your own language model
 
-My learning and research project for training small language models on Apple silicon or Modal GPUs, then running them locally with MLX. I built a training dashboard, chat CLI and reproducible evaluations, and trained a 145M-parameter model with conversation and calculator-tool support.
+I built AGIMac to train language models from scratch on Apple silicon or Modal GPUs, then run them locally with MLX. Includes a live training dashboard, chat, calculator tools and reproducible evaluations.
 
-The project explores the full path from training data to local inference, with measured results and limitations documented alongside the code. Currently in private development.
+[Explore AGIMac →](https://github.com/ashleyrudland/agimac)
 
 ### Dealsourcr · From product to subscription business
 
